@@ -4,3 +4,4 @@
  butonuna basılmış olması). B butonu ise (sadece B butonuna basılması durumu) sayıcının değerine göre ledin durumunu belirleyecek. Son olarak da iki butona aynı anda basılma durumunda hem ledler hem de
  sayıcı başlangıç durumuna yani sıfır durumuna dönecek. Başlangıçta ledler yanmama durumunda ve sayıcının değeri de sıfır durumundadır. Ancak videoda belirttiğim üzere bazı hatalarla karşılaştım ve 
  bunları düzeltemedim. Temel hata ledleri sayıcı ile istediğim şekilde kontrol edemememdi. Öte yandan beklediğim gibi bir senaryo elde edebilseydim farklı seçenekler de eklemeyi düşünüyordum.
+Video linki: https://youtu.be/JAdO2Oqth1E
